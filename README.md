@@ -1,4 +1,4 @@
-# Climate Change Dashboard
+# Climate Change Visualisation and Prediction Dashboard
 
 A web application that visualizes climate change data and predictions for different regions around the world.
 
